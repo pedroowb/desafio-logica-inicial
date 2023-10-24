@@ -1,0 +1,2 @@
+Bem, estou trocando a linguagem de JS para Python, 
+Por simplesmente ser mais familiarizada com ela, e pelo fato de ser a linguagem que pretendo seguir.
