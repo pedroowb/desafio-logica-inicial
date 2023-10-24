@@ -2,7 +2,7 @@ import os
 
 print('Bem-vindo, Aventureiro..')
 def musicPlayer():
-    os.startfile(r'C:\Users\1039856\Documents\Dio Projects\Desafio #1\add\SnapInsta.io - One last shot - Dragon Quest the adventure of Dai 2020 anime OST - Sortie with strong determination (128 kbps).mp3')
+    os.startfile(r'C:\Users\1039856\Documents\Dio Projects\Classificador_Nivel_Heroi\add\SnapInsta.io - One last shot - Dragon Quest the adventure of Dai 2020 anime OST - Sortie with strong determination (128 kbps).mp3')
 def playerInfo():
     global nome
     nome = input('Qual seu nome, oh bravo aventureiro!: ')    
